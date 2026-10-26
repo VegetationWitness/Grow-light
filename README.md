@@ -2,7 +2,7 @@
 <img width="1520" height="55" alt="image" src="https://github.com/user-attachments/assets/3ffc8803-67db-431a-b9dd-c6c9af88e658" />
 
 
-LED luminaire design. The luminaire consists of four circuit boards connected in series. The calculated power is 36 W.
+LED luminaire design. The luminaire consists of four circuit boards connected in series. The calculated power is 30 W.
 
 The archive containing the Gerber file for manufacturing can be found in the "Gerber" folder.
  
