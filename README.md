@@ -17,5 +17,7 @@ The archive containing the Gerber file for manufacturing can be found in the "Ge
 
 **Power supply unit with current stabilization** (**!!! Four boards are connected in series !!!**) Оutput voltage range **80 - 140 V** Output current **300 mA** - 1 items
 
+**Schematic diagram of a single board**
+
 
 <img width="1077" height="371" alt="image" src="https://github.com/user-attachments/assets/5e7f0c72-0943-473c-99fa-1f4b2982989f" />
